@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174275023908",
+    "project_id": "financeplantapp-4f6d8",
+    "storage_bucket": "financeplantapp-4f6d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174275023908:android:81eedc175fb9047ab034b1",
+        "android_client_info": {
+          "package_name": "com.example.plantapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174275023908-7pp44nc9tk9e3o3kk1adov8r63klg52l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHZOFCP9P-aUbnCz7oswH2dS6P0G5O29Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174275023908-7pp44nc9tk9e3o3kk1adov8r63klg52l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
